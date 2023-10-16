@@ -96,8 +96,8 @@ section{
     gap: 30px;
 }
 .home-img{
-    width: 730%;
-    height: 730%;
+    width: 500%;
+    height: 500%;
 }
 .home-img img{
     width: 100%;
@@ -107,7 +107,7 @@ section{
 
 
 .home-text h1{
-    font-size: var(--medium-font);
+    font-size: var(--big-font);
     margin: 23px 0;
 }
 .home-text p{
