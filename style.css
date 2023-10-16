@@ -105,17 +105,7 @@ section{
     object-fit: contain;
 }
 
-.home-text span{
-    padding:  5px 25px;
-    background: linear-gradient(130130.08deg, #383528 0%, #191919 100%);
-    box-shadow: 0px 20px 40px #00000070;
-    border: 1px solid #3b3b3b;
-    border-radius: 100%;
-    color: var(--text-color);
-    font-weight: 700;
-    font-size: 15px;
-    text-transform: uppercase;
-}
+
 .home-text h1{
     font-size: var(--big-font);
     margin: 23px 0;
@@ -304,7 +294,7 @@ section{
 
 @keyframes imgg{
     0%{
-        transform: translate(0);
+        transform: translateY(0);
     }
     50%{
         transform: translateY(-22px);
