@@ -107,7 +107,7 @@ section{
 
 
 .home-text h1{
-    font-size: var(--median-font);
+    font-size: var(--medium-font);
     margin: 23px 0;
 }
 .home-text p{
